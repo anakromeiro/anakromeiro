@@ -1,4 +1,4 @@
-## Hi, I'm Karol 👋
+## Hi there! I'm Karol <img src="https://github.com/user-attachments/assets/7b5da7e1-d60a-4eaa-9278-14542ce8b214" width="80">
 
 🔭 Software Engineer at [eMed UK](https://www.emed.com/uk)
 
@@ -7,6 +7,7 @@
 **anakromeiro/anakromeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 
 - 🌱 I’m currently learning ...
